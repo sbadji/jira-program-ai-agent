@@ -1,0 +1,14 @@
+# Sécurité : Ne jamais pousser les secrets
+.env
+
+# Python : Ignorer les fichiers de cache locaux
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environnement virtuel local
+venv/
+.venv/
+
+# Fichiers système Mac
+.DS_Store
